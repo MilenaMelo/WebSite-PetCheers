@@ -1,4 +1,6 @@
-# petcheers
+# PetCheers
+
+PetCheers is an application using Vue.js referring the study of the framework.
 
 ## Project setup
 ```
